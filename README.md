@@ -1,33 +1,16 @@
-# sagara-mobile-msib-test
+# weather_app
 
-Tujuan:
-Mengembangkan aplikasi mobile dasar menggunakan React Native atau Flutter untuk menunjukkan keterampilan dasar Anda dalam pengembangan aplikasi mobile, terutama dalam integrasi API dan desain antarmuka pengguna.
+A new Flutter project.
 
-Konsep Aplikasi:
-Membuat aplikasi "Weather Forecast" (Prakiraan Cuaca).
+## Getting Started
 
-Fitur Utama:
-1. Tampilan Cuaca:
-- Menampilkan kondisi cuaca saat ini.
-- Menampilkan prakiraan cuaca untuk 3 hari ke depan.
+This project is a starting point for a Flutter application.
 
-2. Integrasi API:
-- Menggunakan API cuaca publik (OpenWeatherMap https://openweathermap.org/api) untuk mengambil dan menampilkan data cuaca.
+A few resources to get you started if this is your first Flutter project:
 
-Persyaratan:
-- Integrasi API: Mengintegrasikan API yang dipilih untuk mengambil dan menampilkan data cuaca saat ini serta prakiraan cuaca.
-- Penanganan Error: Mengimplementasikan penanganan error dasar untuk mengelola masalah seperti kegagalan permintaan API atau kurangnya koneksi internet.
-- Kualitas Kode: Penerapan SOLID Programming
-- Desain UI/UX: Sederhana, intuitif, dan menarik secara visual.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Dokumentasi:
-- Menyertakan file README dengan instruksi tentang cara mengatur dan menjalankan aplikasi.
-- Kirimkan kode sumber lengkap melalui link repository GitHub.
-- Pastikan aplikasi mudah diatur dan dijalankan, dengan instruksi pengaturan yang jelas dalam file README.
-
-Kriteria Penilaian:
-1. Organisasi & Kejelasan Kode, struktur dan organisasi kode
-2. Error handling
-3. UI/UX yang sederhana dan efektif.
-
-Deliverables silakan fork repository ini dan submit link repository hasil pengerjaan Anda ke [https://bit.ly/study-case-mobile-developer-msib](https://bit.ly/study-case-mobile-developer-msib).
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
